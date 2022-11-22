@@ -31,3 +31,4 @@ A graphical user interface that updates in real time based on the percentage of 
 ![image](https://user-images.githubusercontent.com/118120048/203218604-a3486eda-7499-4b33-842d-bea3d32839b2.png)
 
 ## Hiring 🤝🏿
+If you wish to hire me, please contact me at the following e-mail address: luislasabills@gmail.com
