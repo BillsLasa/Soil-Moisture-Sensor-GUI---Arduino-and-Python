@@ -1,5 +1,5 @@
-# Soil Moisture Sensor GUI - Arduino and Python 🚀
-This repository stores a basic spaceship video game programmed in Python language that can be controlled by an electronic Joystick built with the PIC microcontroller PIC16F877 programmed in C language.
+# Soil Moisture Sensor GUI - Arduino and Python 💧
+A graphical user interface that updates in real time based on the percentage of moisture captured by a soil moisture sensor.
 
 ## Author 👤
 **Luis Ángel Sánchez Aguilar** -> Code and electronic design
@@ -28,7 +28,6 @@ This repository stores a basic spaceship video game programmed in Python languag
 * **[videogame.py]**: This file contains the code in Python language that conforms the spaceship videogame as well as the communication parameters with the PIC microcontroller connected to the USB of the computer where it is running.
 
 ## Screenshots 📷
-![image](https://user-images.githubusercontent.com/118120048/203212180-59966f94-339c-4292-8e6a-c7013863c891.png)
-
+![image](https://user-images.githubusercontent.com/118120048/203218604-a3486eda-7499-4b33-842d-bea3d32839b2.png)
 
 ## Hiring 🤝🏿
